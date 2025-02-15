@@ -77,7 +77,17 @@ This application allows users to:
   - UML Class and Sequence diagrams provided in the repository.
 
 ## How to Run
+Using an IDE (e.g., IntelliJ IDEA or Eclipse):
+Clone the Repository:
 
+git clone https://github.com/<your_username>/HW2.git
+cd HW2
+
+Open the Project:
+Import the project into your IDE.
+Run the Application:
+Navigate to HW2.java in the hw2 package and run it.
+A console menu will appear allowing you to perform CRUD operations interactively.
 ### Using an IDE (e.g., IntelliJ IDEA or Eclipse):
 
 1. **Clone the Repository:**
