@@ -3,6 +3,7 @@
 
 This project is a Java console application that demonstrates CRUD (Create, Read, Update, Delete) operations and input validation for managing questions and answers. The application simulates a discussion platform similar to Ed Discussion, where users can post questions, provide answers, and manage both with validation rules.
 
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -15,6 +16,29 @@ This project is a Java console application that demonstrates CRUD (Create, Read,
 - [Requirements](#requirements)
 - [Author](#author)
 - [License](#license)
+
+
+## Project Structure
+
+HW2/
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       └── hw2/
+│   │           ├── Answer.java
+│   │           ├── Answers.java
+│   │           ├── Question.java
+│   │           ├── Questions.java
+│   │           └── HW2.java
+│   └── test/
+│       └── java/
+│           └── hw2TestingAutomation/
+│               ├── HW2TestingAutomation.java
+│               └── HW2AnswersTestingAutomation.java
+├── UML Diagrams/
+│   ├── uml_class_diagram_corrected.png
+│   └── uml_sequence_diagram_styled.png
+└── README.md
 
 ## Project Overview
 
