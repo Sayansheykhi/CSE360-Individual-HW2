@@ -42,7 +42,7 @@ HW2/
 │   └── uml_sequence_diagram_styled.png
 └── README.mdence_diagram_styled.png
 └── README.md
-
+```
 ## Project Overview
 
 This application allows users to:
