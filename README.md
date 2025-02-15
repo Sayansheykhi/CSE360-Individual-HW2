@@ -20,6 +20,8 @@ This project is a Java console application that demonstrates CRUD (Create, Read,
 
 ## Project Structure
 
+## Project Structure
+```plaintext
 HW2/
 ├── src/
 │   ├── main/
@@ -38,6 +40,7 @@ HW2/
 ├── UML Diagrams/
 │   ├── uml_class_diagram_corrected.png
 │   └── uml_sequence_diagram_styled.png
+└── README.mdence_diagram_styled.png
 └── README.md
 
 ## Project Overview
